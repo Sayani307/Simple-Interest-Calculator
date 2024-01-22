@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(51, 72, 80);
+}
+
+h1 {
+    color: rgb(66, 54, 54);
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.calculator {
+    margin-left: 17%;
+    margin-top: 2.5%;
+    width: 65%;
+    background-color: rgb(238, 225, 225);
+    border: 5px solid rgb(7, 7, 7);
+    border-radius: 100px;
+}
+
+label {
+    padding: 4%;
+    margin-left: 26%;
+    margin-right: 4%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+input {
+    margin-bottom: 4%;
+}
+
+button {
+    margin-left: 30%;
+    padding: 1%;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    margin-left: 30%;
+    font-family: "Montserrat", sans-serif;
+}
+
+#time {
+    width: 50px;
+}
+
+h3 {
+    margin-left: 15%;
+}
